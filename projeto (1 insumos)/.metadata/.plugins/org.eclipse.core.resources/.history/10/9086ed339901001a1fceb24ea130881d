@@ -1,0 +1,13 @@
+import java.util.*;
+public class Entrada {
+
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		insumoLista insumo = new insumoLista();
+		
+		System.out.println("Informe o que de");
+		
+		in.close();
+	}
+
+}

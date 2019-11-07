@@ -1,0 +1,19 @@
+
+public class InsumoLista implements RepositorioInsumos{
+	insumo insumo = new insumo();
+	
+	public void inserir(insumo) {
+		
+	}
+	
+	public String remover(String item) {
+
+		return null;
+	}
+	
+	public String listar() {
+
+		return null;
+	}
+
+}
